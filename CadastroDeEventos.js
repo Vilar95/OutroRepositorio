@@ -1,6 +1,6 @@
 let ColocarData = new Date('1995-08-05');
 let date = new Date('2022-01-18');
-let IdadeCadastro =25
+let IdadeCadastro =26
 let listaCadastrados = ["Pedro","Augusto","Clara","Felipe","Helena","Joyce"]
 
 if(ColocarData < date) {
